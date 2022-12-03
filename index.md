@@ -14,7 +14,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-But this is my [second boring page]({% link second.md%})
+But this is my [second boring page](./second.html)
 
 There should be whitespace between paragraphs.
 

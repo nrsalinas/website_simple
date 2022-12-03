@@ -8,4 +8,4 @@ permalink: https://nrsalinas.github.io/website_simple/
 
 As simple as you can guess. Regards.
 
-You can also go to the exciting [front page]({% link index.md%}).
+You can also go to the exciting [front page](./index.html).
