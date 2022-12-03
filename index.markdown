@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Hello world
+
+This is s simple test.
