@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Another page
-permalink: https://nrsalinas.github.io/website_simple/
 ---
 
 # A second boring page

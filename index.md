@@ -8,13 +8,11 @@ This is a simple test.
 
 This is the index page, by the way.
 
-If tired of reading, check the [second boring page]({% link second.md %})
+If tired of reading, check the [second boring page](./second.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
-But this is my [second boring page](./second.html)
 
 There should be whitespace between paragraphs.
 
