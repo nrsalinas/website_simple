@@ -3,7 +3,7 @@ email: nrsalinas@gmail.com
 description: Test website with Slate Jekyll theme.
 show_downloads: false
 google_analytics:
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nrsalinas.github.io/website_simple/ # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 twitter_username: mytwetter
