@@ -1,12 +1,12 @@
-title: Example of Jekyll website
+title: Grupo de Especialistas de Plantas de Colombia - GEPC
 email: nrsalinas@gmail.com
-description: Test website with Slate Jekyll theme.
+description: Grupo de especialistas dentro de la Comisión de Supervivencia de Especies (SSC) de la Unión Internacional para la Conservación de la Naturaleza (IUCN).
 show_downloads: false
 google_analytics:
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nrsalinas.github.io/website_simple/ # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
-twitter_username: mytwetter
+#twitter_username: mytwetter
 github_username:  nrsalinas
 
 # Build settings
