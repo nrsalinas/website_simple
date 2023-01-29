@@ -3,14 +3,12 @@ layout: default
 ---
 
 El GEPC es un punto de encuentro de botánicos interesados en la conservación de 
-plantas colombianas y realizar evaluaciones de riesgo de extinción de especies, 
-planes de conservación de taxa amenazados o 
-delimitar Áreas Claves para la Biodiversidad (KBA). 
-
-El interés primordial de este grupo es articular los diferentes mecanismos respaldados 
-por la IUCN para avanzar en la conservación de plantas de Colombia. Por lo tanto, 
-este grupo no está enfocado en ejecutar proyectos eminentemente taxonómicos o en
-desarrollar intereses horticulturales.
+plantas colombianas.
+La función primordial de este grupo es articular los diferentes mecanismos respaldados 
+por la IUCN (listas rojas, áreas claves para la biodiversidad, etc.) con procesos
+nacionales o regionales de preservación de la flora amenazada.
+Por lo tanto, este grupo no está enfocado en ejecutar proyectos eminentemente 
+taxonómicos o en desarrollar intereses horticulturales.
 
 ### Actividades
 
@@ -22,7 +20,7 @@ Algunas de las actividades que apoyamos son:
 
 3. Consolidación y procesamiento de registros biológicos, y de información requerida para evaluaciones de riesgo de extinción y delimitación de KBAs.
 
-4. Evaluaciones de riesgo de extinción (en sesiones individuales o talleres), lo cuál abarca tanto la interpretación del estándar de la UICN como el uso de múltiples herramientas informaticas para realizar las evaluaciones. 
+4. Asesorar procedimientos relacionados con las evaluaciones de riesgo de extinción (en sesiones individuales o talleres grupales). Esta actividad abarca tanto la interpretación del estándar de la UICN como el uso de múltiples herramientas informaticas para realizar las evaluaciones. 
 
 5. Revisión y publicación de evaluaciones. La revisión de las evaluaciones preliminares por parte de investigadores externos es un paso fundamental para su publicación [en el portal de la UICN](https://www.iucnredlist.org/).
 

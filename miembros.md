@@ -8,7 +8,7 @@ layout: default
 
 - Cristina López Gallego, Universidad de Antioquia. *Co-líder*.
 
-- Nelson R. Salinas, New York Botanical Garden. *Autoridad UICN*.
+- Nelson R. Salinas, New York Botanical Garden. *Autoridad Lista Roja*.
 
 - Paula Morales, Universidad de Antioquia.
 
@@ -49,5 +49,11 @@ layout: default
 - Mauricio Díazgranados, Royal Botanic Gardens, Kew.
 
 ---
+
+# Membresía
+
+Aunque desde sus inicios, el GEPC ha querido incluir al máximo botánicos 
+interesados en conservación, mantener un grupo pequeño facilita la gestión de las 
+actividades, particularmente cuando los recursos para ejecutarlas son escasos.
 
 Volver a la [página inicial](./index.html).

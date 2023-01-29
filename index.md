@@ -9,16 +9,18 @@ los proyectos en los cuales hemos participado.
 
 ### Contenido
 
-1. [**Intro**](./intro.html)
+- [**Intro**](./intro.html)
 
-2. [**Miembros**](./miembros.html)
+- [**Miembros**](./miembros.html)
 
-[//]: # ([Publicaciones](./publicaciones.html))
+- [**Publicaciones**](./publicaciones.html)
 
-[//]: # ([Documentación](./docs.html))
+- [**Documentación**](./docs.html)
 
-[//]: # ([Especies en evaluación/revisión](./especies.html))
+- [**Especies en evaluación/revisión**](./especies.html)
 
-[//]: # ([Código](./codigo.html))
+- [**Código y otras herramientas computacionales**](./codigo.html)
 
-[//]: # ([Contacto](./contacto.html))
+- [**Contacto**](./contacto.html)
+
+[//]: # (8. [**Código de conducta**](./conducta.html)
