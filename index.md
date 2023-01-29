@@ -23,4 +23,3 @@ los proyectos en los cuales hemos participado.
 
 - [**Contacto**](./contacto.html)
 
-[//]: # (8. [**Código de conducta**](./conducta.html)
